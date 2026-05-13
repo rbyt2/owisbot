@@ -2,6 +2,9 @@
   <img src="https://raw.githubusercontent.com/rbyt2/owisbot-discordjs/main/assets/repo_banner.png" />
 </p>
 
+![Node.js](https://img.shields.io/badge/node.js-v22-green)
+![discord.js](https://img.shields.io/badge/discord.js-v14-5865F2)
+
 # owisbot-discordjs
 
 ✿ custom discord bots and systems built for the owis community ♡
