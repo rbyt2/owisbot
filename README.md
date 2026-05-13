@@ -12,7 +12,7 @@
 
 `owisbot-discordjs` is a multipurpose Discord bot project built using `discord.js`.
 
-this project is focused on creating useful, clean, and community-oriented systems for the OWIS server — from moderation tools to utility features and server automation.
+this project is focused on creating useful, clean, and community-oriented systems for the OWIS server, from moderation tools to utility features and server automation.
 
 ---
 
