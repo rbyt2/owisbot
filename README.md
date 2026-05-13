@@ -5,7 +5,7 @@
 ![Node.js](https://img.shields.io/badge/node.js-v22-green)
 ![discord.js](https://img.shields.io/badge/discord.js-v14-5865F2)
 
-<h1 align="center">owisbot-discordjs</h1>
+<h1 align="center">owisbot</h1>
 
 <p align="center">custom bots for the owis community ♡</p>
 
