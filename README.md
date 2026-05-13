@@ -8,6 +8,7 @@
 <h1 align="center">owisbot-discordjs</h1>
 
 <p align="center">custom bots for the owis community ♡</p>
+
 ---
 
 ## 🌸 about
