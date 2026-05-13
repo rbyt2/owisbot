@@ -5,10 +5,9 @@
 ![Node.js](https://img.shields.io/badge/node.js-v22-green)
 ![discord.js](https://img.shields.io/badge/discord.js-v14-5865F2)
 
-# owisbot-discordjs
+<h1 align="center">owisbot-discordjs</h1>
 
-✿ custom discord bots and systems built for the owis community ♡
-
+<p align="center">custom bots for the owis community ♡</p>
 ---
 
 ## 🌸 about
