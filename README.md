@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rbyt2/owisbot-discordjs/main/assets/repo_banner.png" />
+</p>
+
 # owisbot-discordjs
 
 ✿ custom discord bots and systems built for the owis community ♡
